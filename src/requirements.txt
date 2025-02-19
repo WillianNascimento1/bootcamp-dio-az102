@@ -1,0 +1,6 @@
+streamlit
+azure.core
+azure.storage.blob
+azure.ai.documentintelligence
+python-dotenv
+#uv pip install -r requirements.txt
